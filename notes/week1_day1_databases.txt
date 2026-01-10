@@ -1,0 +1,4 @@
+A data base transaction system follows acid properties
+OLTP is used for application
+OLAP is used for analytics and reporting
+ a data warehouse stores the historical data and optimized for analytical quesries 
