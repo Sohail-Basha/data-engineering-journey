@@ -1,0 +1,4 @@
+project 1 - E-commerce data warehouse design
+Dimension : dim_customer(customer_id,name,city)
+Dimension : dim product(product_key,product_id,name,price)
+Dimension : dim date(date_key,date_id,month,year)
